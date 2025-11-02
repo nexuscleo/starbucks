@@ -44,7 +44,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 2. **Abra o arquivo `index.html` no seu navegador:**
    Você pode simplesmente clicar duas vezes no arquivo `index.html` para abri-lo.
 
-3. **Clique no link para abrir no seu navegador:**
+3. ** Ou clique no link para abrir no seu navegador:**
     https://nexuscleo-commits.github.io/StarBucks/
 
 E pronto! O projeto estará rodando na sua máquina.
