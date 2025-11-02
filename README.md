@@ -46,17 +46,11 @@ O projeto foi construído com as seguintes tecnologias:
 
 Para executar este projeto localmente, siga os passos abaixo:
 
-1. **Clone o repositório:**
+1. **Clone o repositório clicando aqui:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/nexuscleo-commits/StarBucks/archive/refs/heads/main.zip
    ```
-
-2. **Navegue até o diretório do projeto:**
-   ```bash
-   cd nome-do-diretorio
-   ```
-
-3. **Abra o arquivo `index.html` no seu navegador:**
+2. **Abra o arquivo `index.html` no seu navegador:**
    Você pode simplesmente clicar duas vezes no arquivo `index.html` para abri-lo.
 
 E pronto! O projeto estará rodando na sua máquina.
@@ -70,11 +64,10 @@ E pronto! O projeto estará rodando na sua máquina.
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **[Seu Nome Aqui]**.
+Projeto desenvolvido por **Cleomar da Silva**.
 
-[!LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-[!GitHub](https://github.com/seu-usuario)
+[!LinkedIn](www.linkedin.com/in/cleomar-silva-173069246/)
 
 ---
 
-*Este projeto foi inspirado e desenvolvido com base nos aprendizados adquiridos no curso do DevClub.*
+*Desenvolvido por &copy;2025 NexusCleo*
