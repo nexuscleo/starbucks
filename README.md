@@ -64,10 +64,4 @@ E pronto! O projeto estará rodando na sua máquina.
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **Cleomar da Silva**.
-
-[!LinkedIn](www.linkedin.com/in/cleomar-silva-173069246/)
-
----
-
-*Desenvolvido por &copy;2025 NexusCleo*
+*Desenvolvido por &copy;2025 NexusCleo.*
