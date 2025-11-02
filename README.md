@@ -39,9 +39,8 @@ O projeto foi construído com as seguintes tecnologias:
 Para executar este projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório clicando aqui:**
-   ```bash
    https://github.com/nexuscleo-commits/StarBucks/archive/refs/heads/main.zip
-   ```
+
 2. **Abra o arquivo `index.html` no seu navegador:**
    Você pode simplesmente clicar duas vezes no arquivo `index.html` para abri-lo.
 
