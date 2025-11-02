@@ -1,29 +1,25 @@
 document.addEventListener('DOMContentLoaded', () => {
     const music = document.getElementById('background-music');
 
-    // Uma função para tentar tocar a música
     const playMusic = () => {
         music.play()
             .then(() => {
-                // Se a música começou a tocar, removemos o ouvinte para que a função não seja chamada novamente
                 document.removeEventListener('click', playMusic);
                 document.removeEventListener('keydown', playMusic);
                 console.log("Música iniciada após a primeira interação do usuário.");
             })
             .catch(error => {
-                // Se ainda houver erro, mostre-o no console
                 console.error("Erro ao tentar tocar a música:", error);
             });
     };
 
-    // Adiciona o ouvinte de evento para 'click' (mouse) e 'keydown' (teclado)
     document.addEventListener('click', playMusic);
     document.addEventListener('keydown', playMusic);
 });
 
-const imagem = document.querySelector(".img-principal");
+const imagem = document.querySelector(".img-principal"); // Imagem principal do copo
 const titulo = document.querySelector("h1");
-const fundo = document.querySelector(".circulo");
+const fundo = document.querySelector(".fundo"); // Elemento de fundo colorido
 const menuItems = document.querySelectorAll(".img-menu");
 
 function trocarImagem(endereco) {
