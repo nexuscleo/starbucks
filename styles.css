@@ -128,7 +128,7 @@ h1.fade-in {
 
     /* Efeito Glassmorphism (Vidro Fosco) */
     padding: 20px;
-    background: rgba(255, 255, 255, 0.1);
+    background: #ffffff33;
     backdrop-filter: blur(10px);
     border-radius: 15px;
     border: 1px solid #ffffff66;
