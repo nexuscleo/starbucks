@@ -46,6 +46,14 @@ body::before {
     width: 50%; /* Ocupa metade da tela */
     padding: 0 100px;
     z-index: 1;
+
+    /* Efeito Glassmorphism para melhorar a legibilidade */
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.1); /* Fundo branco com baixa opacidade */
+    backdrop-filter: blur(5px); /* Desfoque no que está atrás */
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2);
 }
 
 h1 {
@@ -66,11 +74,12 @@ span {
 
 p {
     font-size: 30px;
-    color: #000000;
+    color: #ffffff; /* Alterado para branco para melhor contraste */
     margin-top: 20px;
     line-height: 1.6;
     font-family: "Cormorant Infant", serif;
     max-width: 600px; /* Limita a largura do parágrafo para melhor leitura */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra para destacar o texto */
 }
 
 .caixa-img {
@@ -206,9 +215,14 @@ h1.fade-in {
 
     .caixa-txt {
         width: 90%; /* Ocupa quase toda a largura */
-        padding: 20px;
+        padding: 30px 20px; /* Ajusta o padding para o efeito de vidro */
         text-align: center; /* Centraliza todo o texto */
         order: 2; /* Coloca o texto depois da imagem */
+        /* Remove o efeito de vidro em telas menores para um layout mais limpo */
+        background: none;
+        backdrop-filter: none;
+        border: none;
+        box-shadow: none;
     }
 
     .caixa-img {
