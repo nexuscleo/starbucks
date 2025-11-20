@@ -58,4 +58,4 @@ E pronto! O projeto estará rodando na sua máquina.
 
 ## 👨‍💻 Autor
 
-*Desenvolvido por &copy;2025 NexusCleo.*
+*Desenvolvido por Cleomar da Silva, &copy;2025 NexusCleo.*
